@@ -56,7 +56,7 @@ I am a technologist specializing in software analysis and development, with stro
 <h2>Github stats:</h2> 
 
 ![JsalgadovDev's Stats](https://github-readme-stats.vercel.app/api?username=JsalgadovDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false)
-![JsalgadovDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JsalgadovDev&theme=midnight-purple&hide_border=true).
+![JsalgadovDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JsalgadovDev&theme=midnight-purple&hide_border=true)
 </div>
 <!--
 **JsalgadovDev/JsalgadovDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
